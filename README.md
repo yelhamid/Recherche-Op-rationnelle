@@ -1,1 +1,1 @@
-# Recherche-Op-rationnelle
+# Recherche-Operationnelle
